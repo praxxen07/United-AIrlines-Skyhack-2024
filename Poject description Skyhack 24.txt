@@ -1,0 +1,29 @@
+Project Title: Call Center Optimization for United Airlines
+
+Objective:
+The project focuses on optimizing key call center metrics for United Airlines, particularly Average Handle Time (AHT) and Average Speed to Answer (AST), to enhance customer satisfaction and operational efficiency. By analyzing the call center data, the goal is to identify inefficiencies, determine the drivers of extended AHT and AST, and recommend strategies for improvement, including better utilization of self-service options through IVR systems.
+
+Key Tasks:
+
+Data Analysis of AHT and AST Drivers:
+
+Analyze agent performance, call types, and customer/agent sentiment to uncover the factors contributing to prolonged call durations.
+Identify the main drivers of long AHT and AST during high call volume periods.
+Quantify the percentage difference between the average handling time for the most frequent and least frequent call reasons.
+Self-Service Optimization:
+
+Examine call transcripts and reasons to identify recurring problems that could be addressed via self-service options in the IVR system.
+Propose improvements to the IVR system to reduce agent workload by automating solutions for self-solvable issues.
+Call Reason Categorization:
+
+Explore patterns in the dataset to better understand and categorize the primary reasons for incoming calls.
+Use these insights to streamline call processes and ensure customers are directed to appropriate resources.
+
+Tools and Techniques:
+
+Data analysis using Python (pandas, Scikit-Learn)
+Natural Language Processing (NLP) for transcript analysis
+Sentiment analysis to gauge the tone of customer-agent interactions
+Clustering techniques to identify common call reasons
+
+This project will provide actionable insights to help United Airlines improve call center operations, reduce agent workload, and elevate the overall customer experience.
